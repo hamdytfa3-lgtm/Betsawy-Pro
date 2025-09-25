@@ -1,0 +1,5 @@
+{
+  "name": "Inventory Management System",
+  "description": "A comprehensive inventory management system to track items, suppliers, customers, and transactions. Features include real-time stock monitoring, reporting, and user management, all presented in a clean, modern, and user-friendly interface.",
+  "requestFramePermissions": []
+}
